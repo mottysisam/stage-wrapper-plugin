@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 11
+Specification-Title: Hello World Build Wrapper Plugin
+Specification-Version: 1.0
+Implementation-Title: Hello World Build Wrapper Plugin
+Implementation-Version: 1.0-SNAPSHOT
+Group-Id: org.jenkins-ci.plugins
+Artifact-Id: HelloWorldBuildWrapper
+Short-Name: HelloWorldBuildWrapper
+Long-Name: Hello World Build Wrapper Plugin
+Url: https://github.com/mottysisam/stage-wrapper-plugin
+Plugin-Version: 1.0-SNAPSHOT (private-51ea6dd5-SisamMot)
+Hudson-Version: 2.387.3
+Jenkins-Version: 2.387.3
+Plugin-Developers: Motty Sisam:mottysisam:
+Plugin-License-Name: The MIT license
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-ScmConnection: scm:git:https://github.com/mottysisam/stage-wrappe
+ r-plugin.git
+Plugin-ScmTag: HEAD
+Plugin-ScmUrl: https://github.com/mottysisam/stage-wrapper-plugin
+Plugin-GitHash: 51ea6dd5fef108371b1b53cbec34544627624a57
+Implementation-Build: 51ea6dd5fef108371b1b53cbec34544627624a57
+

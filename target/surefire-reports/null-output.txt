@@ -1,0 +1,1 @@
+Running tests for org.jenkins-ci.plugins:HelloWorldBuildWrapper:1.0-SNAPSHOT
