@@ -10,7 +10,7 @@ Artifact-Id: HelloWorldBuildWrapper
 Short-Name: HelloWorldBuildWrapper
 Long-Name: Hello World Build Wrapper Plugin
 Url: https://github.com/mottysisam/stage-wrapper-plugin
-Plugin-Version: 1.0-SNAPSHOT (private-51ea6dd5-SisamMot)
+Plugin-Version: 1.0-SNAPSHOT (private-e9d56dbd-SisamMot)
 Hudson-Version: 2.387.3
 Jenkins-Version: 2.387.3
 Plugin-Developers: Motty Sisam:mottysisam:
@@ -20,6 +20,6 @@ Plugin-ScmConnection: scm:git:https://github.com/mottysisam/stage-wrappe
  r-plugin.git
 Plugin-ScmTag: HEAD
 Plugin-ScmUrl: https://github.com/mottysisam/stage-wrapper-plugin
-Plugin-GitHash: 51ea6dd5fef108371b1b53cbec34544627624a57
-Implementation-Build: 51ea6dd5fef108371b1b53cbec34544627624a57
+Plugin-GitHash: e9d56dbddb99a8ff18dd32f7e5dc08727dabba13
+Implementation-Build: e9d56dbddb99a8ff18dd32f7e5dc08727dabba13
 

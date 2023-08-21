@@ -1,58 +1,58 @@
-Aug 22, 2023 1:36:47 AM org.jvnet.hudson.test.WarExploder explode
+Aug 22, 2023 1:48:11 AM org.jvnet.hudson.test.WarExploder explode
 INFO: Exploding C:\Users\SisamMot\.m2\repository\org\jenkins-ci\main\jenkins-war\2.387.3\jenkins-war-2.387.3.war into c:\Code\My Github\stage-wrapper-plugin\target\jenkins-for-test
-Aug 22, 2023 1:36:58 AM org.eclipse.jetty.server.handler.ContextHandler setContextPath
+Aug 22, 2023 1:48:24 AM org.eclipse.jetty.server.handler.ContextHandler setContextPath
 WARNING: Empty contextPath
-Aug 22, 2023 1:36:58 AM org.eclipse.jetty.server.Server doStart
+Aug 22, 2023 1:48:24 AM org.eclipse.jetty.server.Server doStart
 INFO: jetty-10.0.15; built: 2023-04-11T17:25:14.480Z; git: 68017dbd00236bb7e187330d7585a059610f661d; jvm 11.0.18+10-LTS
-Aug 22, 2023 1:36:58 AM org.eclipse.jetty.webapp.StandardDescriptorProcessor visitServlet
+Aug 22, 2023 1:48:24 AM org.eclipse.jetty.webapp.StandardDescriptorProcessor visitServlet
 INFO: NO JSP Support for /, did not find org.eclipse.jetty.jsp.JettyJspServlet
-Aug 22, 2023 1:36:58 AM org.eclipse.jetty.server.session.DefaultSessionIdManager doStart
+Aug 22, 2023 1:48:24 AM org.eclipse.jetty.server.session.DefaultSessionIdManager doStart
 INFO: Session workerName=node0
-Aug 22, 2023 1:36:58 AM org.eclipse.jetty.server.handler.ContextHandler doStart
-INFO: Started o.e.j.w.WebAppContext@3fbfbf84{Jenkins v2.387.3,/,file:///C:/Code/My%20Github/stage-wrapper-plugin/target/jenkins-for-test/,AVAILABLE}{c:\Code\My Github\stage-wrapper-plugin\target\jenkins-for-test}
-Aug 22, 2023 1:36:58 AM org.eclipse.jetty.server.AbstractConnector doStart
-INFO: Started ServerConnector@6f952d6c{HTTP/1.1, (http/1.1)}{localhost:50293}
-Aug 22, 2023 1:36:58 AM org.eclipse.jetty.server.Server doStart
-INFO: Started Server@7df60067{STARTING}[10.0.15,sto=0] @13265ms
-Aug 22, 2023 1:36:58 AM jenkins.InitReactorRunner$1 onAttained
+Aug 22, 2023 1:48:25 AM org.eclipse.jetty.server.handler.ContextHandler doStart
+INFO: Started o.e.j.w.WebAppContext@629adce{Jenkins v2.387.3,/,file:///C:/Code/My%20Github/stage-wrapper-plugin/target/jenkins-for-test/,AVAILABLE}{c:\Code\My Github\stage-wrapper-plugin\target\jenkins-for-test}
+Aug 22, 2023 1:48:25 AM org.eclipse.jetty.server.AbstractConnector doStart
+INFO: Started ServerConnector@3adbe50f{HTTP/1.1, (http/1.1)}{localhost:50695}
+Aug 22, 2023 1:48:25 AM org.eclipse.jetty.server.Server doStart
+INFO: Started Server@5e39850{STARTING}[10.0.15,sto=0] @16062ms
+Aug 22, 2023 1:48:25 AM jenkins.InitReactorRunner$1 onAttained
 INFO: Started initialization
-Aug 22, 2023 1:36:58 AM jenkins.InitReactorRunner$1 onAttained
+Aug 22, 2023 1:48:25 AM jenkins.InitReactorRunner$1 onAttained
 INFO: Listed all plugins
-Aug 22, 2023 1:36:59 AM jenkins.InitReactorRunner$1 onAttained
+Aug 22, 2023 1:48:26 AM jenkins.InitReactorRunner$1 onAttained
 INFO: Prepared all plugins
-Aug 22, 2023 1:36:59 AM jenkins.InitReactorRunner$1 onAttained
+Aug 22, 2023 1:48:26 AM jenkins.InitReactorRunner$1 onAttained
 INFO: Started all plugins
-Aug 22, 2023 1:36:59 AM jenkins.InitReactorRunner$1 onAttained
+Aug 22, 2023 1:48:26 AM jenkins.InitReactorRunner$1 onAttained
 INFO: Augmented all extensions
-Aug 22, 2023 1:37:00 AM jenkins.InitReactorRunner$1 onAttained
+Aug 22, 2023 1:48:26 AM jenkins.InitReactorRunner$1 onAttained
 INFO: System config loaded
-Aug 22, 2023 1:37:00 AM jenkins.InitReactorRunner$1 onAttained
+Aug 22, 2023 1:48:26 AM jenkins.InitReactorRunner$1 onAttained
 INFO: System config adapted
-Aug 22, 2023 1:37:00 AM jenkins.InitReactorRunner$1 onAttained
+Aug 22, 2023 1:48:26 AM jenkins.InitReactorRunner$1 onAttained
 INFO: Loaded all jobs
-Aug 22, 2023 1:37:00 AM jenkins.InitReactorRunner$1 onAttained
+Aug 22, 2023 1:48:26 AM jenkins.InitReactorRunner$1 onAttained
 INFO: Configuration for all jobs updated
-Aug 22, 2023 1:37:00 AM jenkins.InitReactorRunner$1 onAttained
+Aug 22, 2023 1:48:27 AM jenkins.InitReactorRunner$1 onAttained
 INFO: Completed initialization
-Aug 22, 2023 1:37:00 AM org.eclipse.jetty.server.Server doStart
+Aug 22, 2023 1:48:27 AM org.eclipse.jetty.server.Server doStart
 INFO: jetty-10.0.15; built: 2023-04-11T17:25:14.480Z; git: 68017dbd00236bb7e187330d7585a059610f661d; jvm 11.0.18+10-LTS
-Aug 22, 2023 1:37:00 AM org.eclipse.jetty.server.session.DefaultSessionIdManager doStart
+Aug 22, 2023 1:48:27 AM org.eclipse.jetty.server.session.DefaultSessionIdManager doStart
 INFO: Session workerName=node0
-Aug 22, 2023 1:37:00 AM org.eclipse.jetty.server.handler.ContextHandler doStart
-INFO: Started o.e.j.s.ServletContextHandler@517a2b0{/,null,AVAILABLE}
-Aug 22, 2023 1:37:00 AM org.eclipse.jetty.server.AbstractConnector doStart
-INFO: Started ServerConnector@36480b2d{HTTP/1.1, (http/1.1)}{0.0.0.0:50313}
-Aug 22, 2023 1:37:00 AM org.eclipse.jetty.server.Server doStart
-INFO: Started Server@1f6917fb{STARTING}[10.0.15,sto=0] @15073ms
-Aug 22, 2023 1:37:03 AM org.eclipse.jetty.server.Server doStop
-INFO: Stopped Server@7df60067{STOPPING}[10.0.15,sto=0]
-Aug 22, 2023 1:37:03 AM org.eclipse.jetty.server.AbstractConnector doStop
-INFO: Stopped ServerConnector@6f952d6c{HTTP/1.1, (http/1.1)}{localhost:0}
-Aug 22, 2023 1:37:03 AM org.eclipse.jetty.server.handler.ContextHandler doStop
-INFO: Stopped o.e.j.w.WebAppContext@3fbfbf84{Jenkins v2.387.3,/,file:///C:/Code/My%20Github/stage-wrapper-plugin/target/jenkins-for-test/,STOPPED}{c:\Code\My Github\stage-wrapper-plugin\target\jenkins-for-test}
-Aug 22, 2023 1:37:03 AM hudson.lifecycle.Lifecycle onStatusUpdate
+Aug 22, 2023 1:48:27 AM org.eclipse.jetty.server.handler.ContextHandler doStart
+INFO: Started o.e.j.s.ServletContextHandler@102c577f{/,null,AVAILABLE}
+Aug 22, 2023 1:48:27 AM org.eclipse.jetty.server.AbstractConnector doStart
+INFO: Started ServerConnector@1fb2d5e{HTTP/1.1, (http/1.1)}{0.0.0.0:50713}
+Aug 22, 2023 1:48:27 AM org.eclipse.jetty.server.Server doStart
+INFO: Started Server@6573d2f7{STARTING}[10.0.15,sto=0] @18147ms
+Aug 22, 2023 1:48:31 AM org.eclipse.jetty.server.Server doStop
+INFO: Stopped Server@5e39850{STOPPING}[10.0.15,sto=0]
+Aug 22, 2023 1:48:31 AM org.eclipse.jetty.server.AbstractConnector doStop
+INFO: Stopped ServerConnector@3adbe50f{HTTP/1.1, (http/1.1)}{localhost:0}
+Aug 22, 2023 1:48:31 AM org.eclipse.jetty.server.handler.ContextHandler doStop
+INFO: Stopped o.e.j.w.WebAppContext@629adce{Jenkins v2.387.3,/,file:///C:/Code/My%20Github/stage-wrapper-plugin/target/jenkins-for-test/,STOPPED}{c:\Code\My Github\stage-wrapper-plugin\target\jenkins-for-test}
+Aug 22, 2023 1:48:31 AM hudson.lifecycle.Lifecycle onStatusUpdate
 INFO: Stopping Jenkins
-Aug 22, 2023 1:37:03 AM hudson.lifecycle.Lifecycle onStatusUpdate
+Aug 22, 2023 1:48:31 AM hudson.lifecycle.Lifecycle onStatusUpdate
 INFO: Jenkins stopped
-Aug 22, 2023 1:37:03 AM org.jvnet.hudson.test.TemporaryDirectoryAllocator dispose
-INFO: deleting c:\Code\My Github\stage-wrapper-plugin\target\tmp\j h2750557984138158024
+Aug 22, 2023 1:48:31 AM org.jvnet.hudson.test.TemporaryDirectoryAllocator dispose
+INFO: deleting c:\Code\My Github\stage-wrapper-plugin\target\tmp\j h11640543913637271498
