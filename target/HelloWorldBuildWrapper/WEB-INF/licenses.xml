@@ -1,2 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<l:dependencies xmlns:l='licenses' groupId='org.jenkins-ci.plugins' artifactId='HelloWorldBuildWrapper' version='1.0-SNAPSHOT'><l:dependency name='Hello World Build Wrapper Plugin' groupId='org.jenkins-ci.plugins' artifactId='HelloWorldBuildWrapper' version='1.0-SNAPSHOT' url='https://github.com/mottysisam/stage-wrapper-plugin'><l:description>This plugin wraps each stage with a Hello World message.</l:description><l:license name='The MIT license' url='https://opensource.org/licenses/MIT'/></l:dependency></l:dependencies>

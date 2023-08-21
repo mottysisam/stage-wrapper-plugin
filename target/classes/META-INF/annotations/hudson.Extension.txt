@@ -1,2 +1,0 @@
-# informational; use java -jar sezpoz.jar to see authoritative contents
-main.java.org.jenkinsci.plugins.stageWrapper.HelloWorldBuildWrapper$DescriptorImpl
